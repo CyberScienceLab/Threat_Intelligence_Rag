@@ -285,24 +285,3 @@ if __name__ == '__main__':
         else:
             print("Exiting...") # Exit message.
             break # Break out of the loop to exit the application.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
